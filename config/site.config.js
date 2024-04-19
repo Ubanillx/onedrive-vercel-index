@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ["/🌞 Private folder/u-need-a-password",'/视频', '/图片','/文档','/音乐','/云记','/桌面','/AppData'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'longxin_liu@qq.com',
+  email: 'Ubanillx:longxin_liu@qq.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
