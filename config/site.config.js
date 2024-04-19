@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/视频/possible1.', '/图片/possible1.','/文档/possible1.','/音乐/possible1.','/云记/possible1.','/桌面/possible1.'],
+  protectedRoutes: ['/视频/u-need-a-password', '/图片/u-need-a-password','/文档/u-need-a-password','/音乐/u-need-a-password','/云记/u-need-a-password','/桌面/u-need-a-password'，'/AppData/u-need-a-password'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'longxin_liu@qq.com',
